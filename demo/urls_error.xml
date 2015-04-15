@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange
+                       Language 1.0//EN//XML" "hate-sysids">
+
+<xbel>
+<title>Pyhoo!</title>
+<desc>
+This is a collection of useful pointers to Python-related material of
+various sorts. It grew out of my personal bookmarks collection, and is
+now maintained in XBEL, the XML Bookmark Exchange Language, partly as
+an experiment, 
